@@ -1,6 +1,6 @@
 {
   "title": "Loja em manutenção",
-  "body": "*Voltamos em breve*",
-  "active": false,
-  "unlock_key": ""
+  "body": "*Voltamos em breve*\n\n![Nosso site se encontra em manutenção.](/img/uploads/logo-manutencao.jfif \"Estamos trabalhando a todo vapor para trazer as melhores novidades para vocês!\")",
+  "active": true,
+  "unlock_key": "staff"
 }
