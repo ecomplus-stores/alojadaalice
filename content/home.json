@@ -25,6 +25,19 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/a243e1f8-c055-482b-ab7b-c837a1d3984e.jpg",
+          "mobile_img": "/img/uploads/a243e1f8-c055-482b-ab7b-c837a1d3984e.jpg"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
