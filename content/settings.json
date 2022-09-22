@@ -1,7 +1,7 @@
 {
   "domain": "alojadaalice.com",
   "currency_symbol": "R$",
-  "primary_color": "#fff3c1",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
