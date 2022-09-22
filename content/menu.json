@@ -1,6 +1,20 @@
 {
-  "sort_categories": [],
-  "alphabetical_order": false,
+  "sort_categories": [
+    "blusas",
+    "calca",
+    "vestidos",
+    "conjuntos",
+    "saia",
+    "liquida-outonoinverno",
+    "macacao",
+    "casacos-jaquetas",
+    "macaquinho",
+    "quero-ver-tudo",
+    "bermuda-shorts",
+    "emilly-k",
+    "colecao-color-charme"
+  ],
+  "alphabetical_order": true,
   "phone_wpp": true,
   "socials": true
 }
