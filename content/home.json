@@ -23,7 +23,8 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/3.jpg",
-          "mobile_img": "/img/uploads/3.jpg"
+          "mobile_img": "/img/uploads/3.jpg",
+          "link": "https://alojadaalice.netlify.app/selfie-color"
         }
       ]
     },
