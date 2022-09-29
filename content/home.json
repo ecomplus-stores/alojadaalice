@@ -10,13 +10,20 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/7b1b7f8e-349e-459e-9281-1a69013d6c79.jpg"
+          "img": "/img/uploads/1.png",
+          "mobile_img": "/img/uploads/1.png"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/a243e1f8-c055-482b-ab7b-c837a1d3984e.jpg",
-          "mobile_img": "/img/uploads/a243e1f8-c055-482b-ab7b-c837a1d3984e.jpg"
+          "img": "/img/uploads/2.png",
+          "mobile_img": "/img/uploads/2.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/3.jpg",
+          "mobile_img": "/img/uploads/3.jpg"
         }
       ]
     },
