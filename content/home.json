@@ -45,7 +45,8 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/3.png",
-      "mobile_img": "/img/uploads/3.png"
+      "mobile_img": "/img/uploads/3.png",
+      "link": "https://alojadaalice.netlify.app/sale"
     },
     {
       "type": "page-title",
