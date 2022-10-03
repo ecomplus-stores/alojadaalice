@@ -3,6 +3,11 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/d0f694a1-de7c-4900-bcc9-c6b35e063697.jpg",
+      "mobile_img": "/img/uploads/d0f694a1-de7c-4900-bcc9-c6b35e063697.jpg"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
