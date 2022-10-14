@@ -1,5 +1,6 @@
 {
   "domain": "alojadaalice.com.br",
+  "repository": "ecomplus-stores/alojadaalice",
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
