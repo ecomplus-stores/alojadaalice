@@ -45,7 +45,7 @@
       "sort": "news",
       "title": "Selfie ",
       "headless": true,
-      "limit": 12,
+      "limit": 16,
       "page": 1
     },
     {
