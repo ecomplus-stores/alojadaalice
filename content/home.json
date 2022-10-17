@@ -45,8 +45,8 @@
       "sort": "news",
       "title": "Selfie ",
       "headless": true,
-      "limit": 16,
-      "page": 2
+      "limit": 18,
+      "page": 1
     },
     {
       "type": "responsive-banner",
