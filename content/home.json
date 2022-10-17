@@ -49,6 +49,14 @@
       "page": 1
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "headless": true,
+      "sort": "views"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/3.png",
       "mobile_img": "/img/uploads/3.png",
