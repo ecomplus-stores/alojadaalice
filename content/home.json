@@ -35,7 +35,8 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/foto-nova-categoria-copa.jpg",
-      "mobile_img": "/img/uploads/foto-nova-categoria-copa.jpg"
+      "mobile_img": "/img/uploads/foto-nova-categoria-copa.jpg",
+      "link": "https://alojadaalice.com.br/selecoes"
     },
     {
       "type": "collection-shelf",
