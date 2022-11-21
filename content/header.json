@@ -11,7 +11,17 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/bermuda-shorts?Bermuda/ Shorts",
+      "/blusas?Blusas",
+      "/calca?Calça",
+      "/casacos-jaquetas?Casacos/ Jaquetas",
+      "/conjuntos?Conjuntos",
+      "/macacao?Macacão",
+      "/macaquinho?Macaquinho",
+      "/saia?Saia",
+      "/vestidos?Vestidos"
+    ],
     "random": 9,
     "full_width": true
   },
