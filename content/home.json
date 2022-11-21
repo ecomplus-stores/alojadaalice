@@ -43,7 +43,7 @@
       "shuffle": true,
       "collection_id": null,
       "sort": "news",
-      "title": "",
+      "title": "Lançamento",
       "headless": false,
       "limit": 12,
       "page": 1
