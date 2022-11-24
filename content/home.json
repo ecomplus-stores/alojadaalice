@@ -10,21 +10,14 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/a544d3c2-cebd-4019-ad81-70a3ae290a85.png",
+          "mobile_img": "/img/uploads/a544d3c2-cebd-4019-ad81-70a3ae290a85.png"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/1.png",
           "mobile_img": "/img/uploads/1.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/2.png",
-          "mobile_img": "/img/uploads/2.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/3.jpg",
-          "mobile_img": "/img/uploads/3.jpg",
-          "link": "https://alojadaalice.netlify.app/selfie-color"
         }
       ]
     },
