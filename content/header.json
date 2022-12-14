@@ -12,6 +12,7 @@
   },
   "categories_list": {
     "featured": [
+      "/acessorios?Acessórios",
       "/bermuda-shorts?Bermuda/ Shorts",
       "/blusas?Blusas",
       "/calca?Calça",
@@ -20,8 +21,7 @@
       "/macacao?Macacão",
       "/macaquinho?Macaquinho",
       "/saia?Saia",
-      "/vestidos?Vestidos",
-      "/acessorios?Acessórios"
+      "/vestidos?Vestidos"
     ],
     "random": 10,
     "full_width": true
