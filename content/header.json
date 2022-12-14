@@ -20,7 +20,8 @@
       "/macacao?Macacão",
       "/macaquinho?Macaquinho",
       "/saia?Saia",
-      "/vestidos?Vestidos"
+      "/vestidos?Vestidos",
+      "/acessorios?Acessórios"
     ],
     "random": 10,
     "full_width": true
