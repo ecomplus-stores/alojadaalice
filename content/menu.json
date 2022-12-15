@@ -1,5 +1,6 @@
 {
   "sort_categories": [
+    "acessorios",
     "bermuda-shorts",
     "blusas",
     "calca",
@@ -8,8 +9,7 @@
     "macacao",
     "macaquinho",
     "saia",
-    "vestidos",
-    "acessorios"
+    "vestidos"
   ],
   "alphabetical_order": false,
   "phone_wpp": true,
