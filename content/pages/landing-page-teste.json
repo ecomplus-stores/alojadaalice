@@ -1,0 +1,10 @@
+{
+  "title": "landing page teste",
+  "sections": [
+    {
+      "type": "custom-html",
+      "html": "<section id=\"cabecalho\">\n    <h2 id=\"propostaTitle\">Nova Coleção</h2>\n  <div class=\"cta-container\">\n     <div id=\"propostaSubtitle\">Felicitá</div>\n     <button id=\"callToAction\">\n          <a href=\"#\">Quero comprar</a>\n        </button>\n      </div>\n  </div>\n <img src=\"file:///C:/Users/Pichau/Downloads/Formas%20Org%C3%A2nicas%20Azul%20e%20Rosa%20Minimalista%20%20Linha%20de%20Roupas%20Sustent%C3%A1veis%20%20Post%20Para%20Facebook.png\">\n</section>\n<section id=\"beneficios\">\n  <section id=\"ctaContainer\">\n  <a href=#>Saiba mais</a>\n  <button id=\"callToAction\">\n    <a href=\"#\">Compre Agora</a>\n  </button>\n</section>"
+    }
+  ],
+  "body": "F﻿elicitá"
+}
