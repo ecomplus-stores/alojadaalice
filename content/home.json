@@ -55,6 +55,11 @@
       "link": "https://alojadaalice.netlify.app/sale"
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
+    },
+    {
       "type": "page-title",
       "title": "",
       "description": ""
