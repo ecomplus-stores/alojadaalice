@@ -40,12 +40,6 @@
       "page": 1
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/3.png",
-      "mobile_img": "/img/uploads/3.png",
-      "link": "https://alojadaalice.netlify.app/sale"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
@@ -53,6 +47,12 @@
       "headless": true,
       "sort": "sales",
       "title": "MAIS VENDIDAS"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/3.png",
+      "mobile_img": "/img/uploads/3.png",
+      "link": "https://alojadaalice.netlify.app/sale"
     },
     {
       "type": "page-title",
