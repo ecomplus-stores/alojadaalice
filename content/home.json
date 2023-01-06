@@ -65,6 +65,10 @@
       "type": "page-title",
       "title": "",
       "description": ""
+    },
+    {
+      "type": "custom-html",
+      "html": "<head>\n  <meta name=\"google-site-verification\" content=\"FM_UXBwxPJE-QjXqwjD18Ksgzt9mtWD9DjRb3ZQWHsY\" />\n  <head>\n    <body>"
     }
   ]
 }
