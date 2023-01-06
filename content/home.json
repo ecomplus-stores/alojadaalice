@@ -3,6 +3,10 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "custom-html",
+      "html": "<head>\n  <meta name=\"google-site-verification\" content=\"FM_UXBwxPJE-QjXqwjD18Ksgzt9mtWD9DjRb3ZQWHsY\" />\n  <head>\n    <body>"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -65,10 +69,6 @@
       "type": "page-title",
       "title": "",
       "description": ""
-    },
-    {
-      "type": "custom-html",
-      "html": "<head>\n  <meta name=\"google-site-verification\" content=\"FM_UXBwxPJE-QjXqwjD18Ksgzt9mtWD9DjRb3ZQWHsY\" />\n  <head>\n    <body>"
     }
   ]
 }
