@@ -5,13 +5,8 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/img-20230112-wa0107.jpg"
-        },
         {
           "start": "",
           "end": "",
