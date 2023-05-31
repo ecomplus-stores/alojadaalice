@@ -16,19 +16,14 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/image_6483441-1-.jpg",
-          "mobile_img": "/img/uploads/image_6483441-1-.jpg"
+          "img": "/img/uploads/image_6483441-4-.jpg",
+          "mobile_img": "/img/uploads/image_6483441-4-.jpg"
         }
       ]
     },
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/img-20221227-wa0007.jpg",
-      "link": "https://alojadaalice.com.br/quero-ver-tudo"
     },
     {
       "type": "collection-shelf",
