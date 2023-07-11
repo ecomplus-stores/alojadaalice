@@ -56,7 +56,7 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "sort": "offers"
+      "sort": "news"
     },
     {
       "type": "page-title",
