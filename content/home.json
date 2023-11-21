@@ -54,9 +54,7 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "headless": true,
-      "sort": "sales",
-      "title": "MAIS VENDIDAS"
+      "sort": "news"
     },
     {
       "type": "responsive-banner",
@@ -69,7 +67,9 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "sort": "news"
+      "headless": true,
+      "sort": "sales",
+      "title": "MAIS VENDIDAS"
     },
     {
       "type": "page-title",
