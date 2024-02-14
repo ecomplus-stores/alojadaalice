@@ -21,8 +21,7 @@
       "/macacao?Macacão",
       "/macaquinho?Macaquinho",
       "/saia?Saia",
-      "/vestidos?Vestidos",
-      "/outlet?OUTLET"
+      "/vestidos?Vestidos"
     ],
     "random": 10,
     "full_width": true
