@@ -58,11 +58,12 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 12,
+      "limit": 10,
       "page": 1,
       "headless": true,
-      "sort": "sales",
-      "title": "MAIS VENDIDAS"
+      "sort": "views",
+      "title": "Última chance",
+      "collection_id": "65ea2f9c87ab487fbfdb062d:collections:Última chance:/ultima-chance"
     },
     {
       "type": "custom-html",
