@@ -72,6 +72,19 @@
       "type": "page-title",
       "title": "",
       "description": ""
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/1-1-.jpg",
+          "mobile_img": "/img/uploads/1-1-.jpg"
+        },
+        {
+          "img": "/img/uploads/alice-friday-.-alice-friday-alice-friday-.-alice-friday.-alice-friday-alice-friday-3-.jpg",
+          "mobile_img": "/img/uploads/alice-friday-.-alice-friday-alice-friday-.-alice-friday.-alice-friday-alice-friday-3-.jpg"
+        }
+      ]
     }
   ]
 }
