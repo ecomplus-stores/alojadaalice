@@ -45,7 +45,9 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "sort": "news"
+      "sort": "views",
+      "collection_id": "65ea27ed87ab487fbfdaf962:collections:Produtos Populares:/produtos-populares",
+      "title": "Produtos populares"
     },
     {
       "type": "responsive-banner",
