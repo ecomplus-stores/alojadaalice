@@ -1112,13 +1112,13 @@
     </url>
   
     <url>
-      <loc>https://alojadaalice.com.br/pages/entrega</loc>
+      <loc>https://alojadaalice.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://alojadaalice.com.br/pages/contato</loc>
+      <loc>https://alojadaalice.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
